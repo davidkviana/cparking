@@ -5,6 +5,10 @@ A aplicação foi desenvolvida seguindo as especificações da GeoMK a seguir:
 
 A mudança principal mudança realizada foi em relação ao horário do veículo que é retornado com o formato de hh:mm:ss. 
 
+Para o projeto rodar execute mydjango-start.sh ele deve preparar o ambiente. Entre na pasta cparking, em seguida execute o comando: python3.6 manage.py runserver
+
+Caso o python que você use seja uma versão anterior ao 3.0 é melhor instalar uma mais recente.
+
 '''
 # GeoMK - Teste back-end
 
